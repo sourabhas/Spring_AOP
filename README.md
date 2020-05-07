@@ -2,7 +2,7 @@
 AOP with Spring and AspectJ
 Demonstates te following :
 * Implementing and using command line runner instead of  Application context in the main class
-* Using different Annotations related to AOP such as ->>
+* Demonstating the useage of different Annotations related to AOP such as ->>
 @Aspect
 @Before 
 @After
