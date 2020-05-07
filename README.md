@@ -9,7 +9,7 @@ Demonstates te following :
 @Arround
 @Pointcut
 @Afterreturning ,@AfterThrowing,etc
-* Using JoinPoints & ProceedingJoincuts, Pointcuts, Advice and Aspect in programming class
+* Using JoinPoints & ProceedingJoinpoint, Pointcuts, Advice and Aspect in programming class
 * Weaver & Weaving
 * creating custom annotations such as @Tracktime and using it to track performance (run time) of particluar methods using @Target & @Retention
 
